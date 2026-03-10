@@ -1,2 +1,5 @@
 [deploy]
 startCommand = "npm start"
+
+[environment]
+PORT = "3000"
