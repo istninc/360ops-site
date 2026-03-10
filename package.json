@@ -1,0 +1,11 @@
+{
+  "name": "360ops-site",
+  "version": "1.0.0",
+  "description": "360ops marketing landing page",
+  "scripts": {
+    "start": "npx serve . -p $PORT -s"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
